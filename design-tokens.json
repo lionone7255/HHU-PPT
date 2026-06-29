@@ -1,0 +1,3345 @@
+{
+  "meta": {
+    "name": "HHU Design System",
+    "description": "河海大学视觉设计要素体系 — 从主题PPT模板中提取",
+    "source_files": [
+      "河海大学主题PPT小图标.pptx",
+      "河海大学主题PPT模板1.pptx",
+      "河海大学主题PPT模板2.pptx",
+      "河海大学主题PPT模板3.pptx",
+      "河海大学主题PPT模板4.pptx",
+      "河海大学主题PPT模板5.pptx",
+      "河海大学主题PPT模板6.pptx"
+    ],
+    "slide_count": 70,
+    "total_images": 374
+  },
+  "colors": {
+    "text_colors_by_frequency": [
+      {
+        "hex": "#00489D",
+        "count": 8
+      },
+      {
+        "hex": "#004098",
+        "count": 8
+      },
+      {
+        "hex": "#E7E6E6",
+        "count": 8
+      },
+      {
+        "hex": "#13489D",
+        "count": 7
+      },
+      {
+        "hex": "#D00A09",
+        "count": 6
+      },
+      {
+        "hex": "#C00000",
+        "count": 4
+      },
+      {
+        "hex": "#074D9F",
+        "count": 3
+      },
+      {
+        "hex": "#123E89",
+        "count": 3
+      },
+      {
+        "hex": "#D22624",
+        "count": 3
+      },
+      {
+        "hex": "#DD1615",
+        "count": 3
+      },
+      {
+        "hex": "#0070C0",
+        "count": 2
+      },
+      {
+        "hex": "#AC4384",
+        "count": 1
+      },
+      {
+        "hex": "#00419A",
+        "count": 1
+      }
+    ],
+    "shape_fill_colors": [
+      {
+        "hex": "#004098",
+        "count": 20
+      },
+      {
+        "hex": "#00489D",
+        "count": 10
+      },
+      {
+        "hex": "#9CACCE",
+        "count": 10
+      },
+      {
+        "hex": "#D00A09",
+        "count": 7
+      },
+      {
+        "hex": "#123D89",
+        "count": 4
+      },
+      {
+        "hex": "#123E89",
+        "count": 4
+      },
+      {
+        "hex": "#FFF6E9",
+        "count": 4
+      },
+      {
+        "hex": "#C00000",
+        "count": 4
+      },
+      {
+        "hex": "#F6C59E",
+        "count": 4
+      },
+      {
+        "hex": "#CE2428",
+        "count": 4
+      },
+      {
+        "hex": "#778495",
+        "count": 4
+      },
+      {
+        "hex": "#1F487C",
+        "count": 3
+      },
+      {
+        "hex": "#EA080C",
+        "count": 3
+      },
+      {
+        "hex": "#6A83B6",
+        "count": 2
+      },
+      {
+        "hex": "#F8DA9E",
+        "count": 2
+      },
+      {
+        "hex": "#E7E6E6",
+        "count": 2
+      },
+      {
+        "hex": "#DD1615",
+        "count": 2
+      },
+      {
+        "hex": "#AC4384",
+        "count": 1
+      },
+      {
+        "hex": "#12408E",
+        "count": 1
+      },
+      {
+        "hex": "#1E69D9",
+        "count": 1
+      }
+    ],
+    "palette_summary": {
+      "warm": [
+        {
+          "hex": "#D00A09",
+          "count": 6,
+          "role": "red/warm accent"
+        },
+        {
+          "hex": "#C00000",
+          "count": 4,
+          "role": "red/warm accent"
+        },
+        {
+          "hex": "#D22624",
+          "count": 3,
+          "role": "red/warm accent"
+        },
+        {
+          "hex": "#DD1615",
+          "count": 3,
+          "role": "red/warm accent"
+        },
+        {
+          "hex": "#D00A09",
+          "count": 7,
+          "role": "red/warm accent"
+        },
+        {
+          "hex": "#C00000",
+          "count": 4,
+          "role": "red/warm accent"
+        },
+        {
+          "hex": "#CE2428",
+          "count": 4,
+          "role": "red/warm accent"
+        },
+        {
+          "hex": "#EA080C",
+          "count": 3,
+          "role": "red/warm accent"
+        },
+        {
+          "hex": "#DD1615",
+          "count": 2,
+          "role": "red/warm accent"
+        }
+      ],
+      "cool": [
+        {
+          "hex": "#00489D",
+          "count": 8,
+          "role": "blue/cool primary"
+        },
+        {
+          "hex": "#004098",
+          "count": 8,
+          "role": "blue/cool primary"
+        },
+        {
+          "hex": "#13489D",
+          "count": 7,
+          "role": "blue/cool primary"
+        },
+        {
+          "hex": "#074D9F",
+          "count": 3,
+          "role": "blue/cool primary"
+        },
+        {
+          "hex": "#123E89",
+          "count": 3,
+          "role": "mixed"
+        },
+        {
+          "hex": "#0070C0",
+          "count": 2,
+          "role": "mixed"
+        },
+        {
+          "hex": "#AC4384",
+          "count": 1,
+          "role": "mixed"
+        },
+        {
+          "hex": "#00419A",
+          "count": 1,
+          "role": "blue/cool primary"
+        },
+        {
+          "hex": "#004098",
+          "count": 20,
+          "role": "blue/cool primary"
+        },
+        {
+          "hex": "#00489D",
+          "count": 10,
+          "role": "blue/cool primary"
+        },
+        {
+          "hex": "#9CACCE",
+          "count": 10,
+          "role": "mixed"
+        },
+        {
+          "hex": "#123D89",
+          "count": 4,
+          "role": "mixed"
+        },
+        {
+          "hex": "#123E89",
+          "count": 4,
+          "role": "mixed"
+        },
+        {
+          "hex": "#F6C59E",
+          "count": 4,
+          "role": "mixed"
+        },
+        {
+          "hex": "#1F487C",
+          "count": 3,
+          "role": "mixed"
+        },
+        {
+          "hex": "#6A83B6",
+          "count": 2,
+          "role": "mixed"
+        },
+        {
+          "hex": "#F8DA9E",
+          "count": 2,
+          "role": "mixed"
+        },
+        {
+          "hex": "#AC4384",
+          "count": 1,
+          "role": "mixed"
+        },
+        {
+          "hex": "#12408E",
+          "count": 1,
+          "role": "mixed"
+        },
+        {
+          "hex": "#1E69D9",
+          "count": 1,
+          "role": "mixed"
+        }
+      ],
+      "neutral": [
+        {
+          "hex": "#E7E6E6",
+          "count": 8,
+          "role": "gray/neutral"
+        },
+        {
+          "hex": "#FFF6E9",
+          "count": 4,
+          "role": "gray/neutral"
+        },
+        {
+          "hex": "#778495",
+          "count": 4,
+          "role": "gray/neutral"
+        },
+        {
+          "hex": "#E7E6E6",
+          "count": 2,
+          "role": "gray/neutral"
+        }
+      ]
+    }
+  },
+  "typography": {
+    "fonts": {
+      "微软雅黑": {
+        "normal_count": 263,
+        "bold_count": 122,
+        "total": 385
+      },
+      "None": {
+        "normal_count": 0,
+        "bold_count": 45,
+        "total": 45
+      },
+      "+mn-ea": {
+        "normal_count": 5,
+        "bold_count": 0,
+        "total": 5
+      },
+      "思源黑体 CN Medium": {
+        "normal_count": 4,
+        "bold_count": 0,
+        "total": 4
+      },
+      "思源黑体 CN Normal": {
+        "normal_count": 1,
+        "bold_count": 1,
+        "total": 2
+      },
+      "+mn-lt": {
+        "normal_count": 2,
+        "bold_count": 0,
+        "total": 2
+      },
+      "+mj-ea": {
+        "normal_count": 1,
+        "bold_count": 0,
+        "total": 1
+      }
+    },
+    "font_sizes_pt": [
+      {
+        "size_pt": 20,
+        "count": 97
+      },
+      {
+        "size_pt": 14,
+        "count": 88
+      },
+      {
+        "size_pt": 28,
+        "count": 14
+      },
+      {
+        "size_pt": 24,
+        "count": 12
+      },
+      {
+        "size_pt": 19,
+        "count": 12
+      },
+      {
+        "size_pt": 16,
+        "count": 12
+      },
+      {
+        "size_pt": 23,
+        "count": 10
+      },
+      {
+        "size_pt": 60,
+        "count": 9
+      },
+      {
+        "size_pt": 12,
+        "count": 8
+      },
+      {
+        "size_pt": 32,
+        "count": 7
+      },
+      {
+        "size_pt": 40,
+        "count": 5
+      },
+      {
+        "size_pt": 54,
+        "count": 5
+      },
+      {
+        "size_pt": 34,
+        "count": 4
+      },
+      {
+        "size_pt": 22,
+        "count": 4
+      },
+      {
+        "size_pt": 18,
+        "count": 3
+      },
+      {
+        "size_pt": 66,
+        "count": 3
+      },
+      {
+        "size_pt": 13,
+        "count": 3
+      },
+      {
+        "size_pt": 36,
+        "count": 3
+      },
+      {
+        "size_pt": 48,
+        "count": 2
+      },
+      {
+        "size_pt": 45,
+        "count": 2
+      }
+    ]
+  },
+  "layout": {
+    "slide_size": "16:9 (33.87cm x 19.05cm)",
+    "margins_cm": {
+      "avg_left": 0.47,
+      "avg_top": -0.14,
+      "avg_right": 2.0,
+      "avg_bottom": 1.64
+    },
+    "per_slide": [
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 1,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 4.13,
+        "min_bottom_cm": 4.69,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 2,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 4.13,
+        "min_bottom_cm": 4.69,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 3,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 4.13,
+        "min_bottom_cm": 4.69,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 4,
+        "min_left_cm": -0.03,
+        "min_top_cm": -0.03,
+        "min_right_cm": 1.84,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 5,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 4.13,
+        "min_bottom_cm": 4.69,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 6,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 4.13,
+        "min_bottom_cm": 4.69,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 7,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 6.22,
+        "min_bottom_cm": 3.46,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 8,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 6.22,
+        "min_bottom_cm": 3.46,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 9,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 6.22,
+        "min_bottom_cm": 3.46,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 10,
+        "min_left_cm": -0.03,
+        "min_top_cm": -0.03,
+        "min_right_cm": 1.84,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 11,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 6.22,
+        "min_bottom_cm": 3.46,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT小图标",
+        "slide": 12,
+        "min_left_cm": 2.68,
+        "min_top_cm": 1.56,
+        "min_right_cm": 6.22,
+        "min_bottom_cm": 3.46,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 1,
+        "min_left_cm": -0.01,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.85,
+        "min_bottom_cm": 1.02,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 2,
+        "min_left_cm": 0.01,
+        "min_top_cm": -4.34,
+        "min_right_cm": 1.83,
+        "min_bottom_cm": 1.08,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 3,
+        "min_left_cm": 0.01,
+        "min_top_cm": -4.34,
+        "min_right_cm": 1.83,
+        "min_bottom_cm": 1.08,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 4,
+        "min_left_cm": 0.01,
+        "min_top_cm": -4.34,
+        "min_right_cm": 1.85,
+        "min_bottom_cm": 2.72,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 5,
+        "min_left_cm": 0.01,
+        "min_top_cm": -4.34,
+        "min_right_cm": 1.85,
+        "min_bottom_cm": 3.57,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 6,
+        "min_left_cm": 0.01,
+        "min_top_cm": -4.34,
+        "min_right_cm": 1.85,
+        "min_bottom_cm": 5.3,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 7,
+        "min_left_cm": 0.01,
+        "min_top_cm": -4.34,
+        "min_right_cm": 1.85,
+        "min_bottom_cm": 2.53,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 8,
+        "min_left_cm": 0.01,
+        "min_top_cm": -4.34,
+        "min_right_cm": 1.85,
+        "min_bottom_cm": 1.38,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 9,
+        "min_left_cm": 0.01,
+        "min_top_cm": -4.34,
+        "min_right_cm": 1.85,
+        "min_bottom_cm": 2.07,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板1",
+        "slide": 10,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT模板2",
+        "slide": 1,
+        "min_left_cm": -0.02,
+        "min_top_cm": 0.09,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板2",
+        "slide": 2,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.04,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.04,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板2",
+        "slide": 3,
+        "min_left_cm": 0.0,
+        "min_top_cm": -0.78,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.04,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板2",
+        "slide": 4,
+        "min_left_cm": 0.0,
+        "min_top_cm": -0.78,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.04,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板2",
+        "slide": 5,
+        "min_left_cm": 0.0,
+        "min_top_cm": -0.78,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.04,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板2",
+        "slide": 6,
+        "min_left_cm": 0.0,
+        "min_top_cm": -0.78,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.04,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板2",
+        "slide": 7,
+        "min_left_cm": 0.0,
+        "min_top_cm": -0.02,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.04,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板2",
+        "slide": 8,
+        "min_left_cm": -0.02,
+        "min_top_cm": 1.27,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 1,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": -2.52,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 2,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.04,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 3,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 4,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.01,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 3.93,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 5,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.01,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 2.87,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 6,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.01,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 3.87,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 7,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.01,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 2.23,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 8,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.01,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 0.79,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 9,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.01,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 4.23,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板3",
+        "slide": 10,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 1,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 2,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.3,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 3,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 4,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 5,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 6,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 7,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 0.79,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 8,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.01,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 9,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.01,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "unknown"
+      },
+      {
+        "pptx": "河海大学主题PPT模板4",
+        "slide": 10,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 1,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 2,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.02,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 3,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.02,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 4,
+        "min_left_cm": 1.69,
+        "min_top_cm": 0.88,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 5,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.88,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 6,
+        "min_left_cm": 1.83,
+        "min_top_cm": 0.88,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 7,
+        "min_left_cm": 1.92,
+        "min_top_cm": 0.88,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 8,
+        "min_left_cm": 1.92,
+        "min_top_cm": 0.88,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 9,
+        "min_left_cm": 1.92,
+        "min_top_cm": 0.88,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.05,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板5",
+        "slide": 10,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 1.86,
+        "min_bottom_cm": 1.02,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 1,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 2,
+        "min_left_cm": -3.21,
+        "min_top_cm": 0.0,
+        "min_right_cm": -0.45,
+        "min_bottom_cm": -0.91,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 3,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 4,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.93,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 5,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.93,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "right"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 6,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.93,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 7,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.93,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 8,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.93,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "center"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 9,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.93,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "left"
+      },
+      {
+        "pptx": "河海大学主题PPT模板6",
+        "slide": 10,
+        "min_left_cm": 0.0,
+        "min_top_cm": 0.0,
+        "min_right_cm": 0.0,
+        "min_bottom_cm": 0.0,
+        "dominant_align": "unknown"
+      }
+    ]
+  },
+  "placeholders": {},
+  "images": [
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 6.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 9.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 5.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 3.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 6.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 5.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 11.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 5.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 11.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 3.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 3.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 10.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 7.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 10.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 6.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 3.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 7.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 5.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 12.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 5.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 13.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 4.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 4.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 11.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 5.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 8.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 5.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 3.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 6.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 4.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 10.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 4.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 10.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 3.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 3.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 9.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 6.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 8.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 5.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 3.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 6.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 4.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 9.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 4.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 10.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 3.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 3.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 9.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 6.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 9.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 5.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 3.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 7.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 5.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 10.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 5.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 11.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 3.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 3.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 10.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 7.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 10.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 6.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 3.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 7.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 5.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 11.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 5.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 12.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 4.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 4.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 10.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 17.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 10.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 17.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 17.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 46.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 47.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 46.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 20.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 10.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 19.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 18.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 52.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 32.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 40.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 17.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 10.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 16.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 15.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 41.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 29.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 34.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 18.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 10.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 17.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 16.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 34.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 30.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 35.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 11,
+      "content_type": "image/png",
+      "size_kb": 18.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 11,
+      "content_type": "image/png",
+      "size_kb": 9.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 11,
+      "content_type": "image/png",
+      "size_kb": 17.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 11,
+      "content_type": "image/png",
+      "size_kb": 16.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 11,
+      "content_type": "image/png",
+      "size_kb": 47.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 11,
+      "content_type": "image/png",
+      "size_kb": 31.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 11,
+      "content_type": "image/png",
+      "size_kb": 38.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 12,
+      "content_type": "image/png",
+      "size_kb": 19.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 12,
+      "content_type": "image/png",
+      "size_kb": 10.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 12,
+      "content_type": "image/png",
+      "size_kb": 18.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 12,
+      "content_type": "image/png",
+      "size_kb": 18.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 12,
+      "content_type": "image/png",
+      "size_kb": 49.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 12,
+      "content_type": "image/png",
+      "size_kb": 31.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT小图标",
+      "slide": 12,
+      "content_type": "image/png",
+      "size_kb": 39.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 77.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 90.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 244.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 132.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 40.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 28.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 46.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 43.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 44.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 551.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 245.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 8.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 9.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 9.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 8.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 40.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 571.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 40.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 551.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 571.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 40.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 16.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 18.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 16.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 3.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 4.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 5.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 571.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 40.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 18.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 571.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 40.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 59047.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 18.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 4.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 16.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 3.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 16.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 571.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/jpeg",
+      "size_kb": 16005.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 40.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 18.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 16.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 8.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 8.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 9.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 571.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 8,
+      "content_type": "image/jpeg",
+      "size_kb": 17083.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 40.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 29.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 16.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 571.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 40.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 35.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 90.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 77.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 302.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 551.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 86.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板1",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 28.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 21.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 19.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 237.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 116.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 19.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 31.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 3,
+      "content_type": "image/jpeg",
+      "size_kb": 10184.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 60.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 31.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 4,
+      "content_type": "image/jpeg",
+      "size_kb": 9711.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 60.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 5.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 31.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 5,
+      "content_type": "image/jpeg",
+      "size_kb": 3713.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 60.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 5.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 31.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 42.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 6,
+      "content_type": "image/jpeg",
+      "size_kb": 5134.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 60.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 6.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 31.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 7,
+      "content_type": "image/jpeg",
+      "size_kb": 69.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 7,
+      "content_type": "image/jpeg",
+      "size_kb": 60.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 60.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 9.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 18.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 27.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板2",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 413.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 109.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 165.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 1461.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 2,
+      "content_type": "image/jpeg",
+      "size_kb": 93.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 5.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 9.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 11.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 19.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 3,
+      "content_type": "image/jpeg",
+      "size_kb": 93.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 9.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 11.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 19.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 9.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 11.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 64.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 19.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 9.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 11.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 19.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 31.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 31.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 31.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 31.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 8.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 7.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 4.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 3.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 6,
+      "content_type": "image/jpeg",
+      "size_kb": 9021.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 6,
+      "content_type": "image/jpeg",
+      "size_kb": 9226.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 6,
+      "content_type": "image/jpeg",
+      "size_kb": 6713.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 9.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 11.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 19.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 131.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 7,
+      "content_type": "image/jpeg",
+      "size_kb": 14627.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 7,
+      "content_type": "image/jpeg",
+      "size_kb": 11162.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 9.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 11.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 19.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 14.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 4.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 9.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 11.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 19.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 27.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 9.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 5.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 14.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 7.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 9.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 11.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 19.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 209.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板3",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 23.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 117.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 39.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 6.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 51.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 8.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 30.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 28.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 28.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 28.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 28.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 20.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 30.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 117.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 207.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 207.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 4,
+      "content_type": "image/jpeg",
+      "size_kb": 16103.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 4,
+      "content_type": "image/jpeg",
+      "size_kb": 11720.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 207.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 5,
+      "content_type": "image/jpeg",
+      "size_kb": 6268.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 6.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 9.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 8.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 4.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 5.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 207.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 6,
+      "content_type": "image/jpeg",
+      "size_kb": 11129.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 6.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 207.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 382.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 2.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 2.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 4.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 3.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 207.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 8,
+      "content_type": "image/jpeg",
+      "size_kb": 3713.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 8,
+      "content_type": "image/jpeg",
+      "size_kb": 9149.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 8,
+      "content_type": "image/jpeg",
+      "size_kb": 9745.7
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 8,
+      "content_type": "image/jpeg",
+      "size_kb": 7036.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 207.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 9,
+      "content_type": "image/jpeg",
+      "size_kb": 17443.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 117.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板4",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 30.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 73.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 33.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 23.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 30.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 13.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 66.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 86.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 4,
+      "content_type": "image/jpeg",
+      "size_kb": 149.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 4,
+      "content_type": "image/jpeg",
+      "size_kb": 22759.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 66.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 86.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 5,
+      "content_type": "image/jpeg",
+      "size_kb": 449.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 66.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 86.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 66.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 86.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 7,
+      "content_type": "image/jpeg",
+      "size_kb": 313.1
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 66.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 86.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 66.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 86.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 9,
+      "content_type": "image/jpeg",
+      "size_kb": 10184.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 66.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 13.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板5",
+      "slide": 10,
+      "content_type": "image/png",
+      "size_kb": 33.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 1,
+      "content_type": "image/jpeg",
+      "size_kb": 3090.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 2042.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 1,
+      "content_type": "image/png",
+      "size_kb": 130.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 26.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 23.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 20.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 2,
+      "content_type": "image/png",
+      "size_kb": 47.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 3,
+      "content_type": "image/png",
+      "size_kb": 76.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 24.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 4,
+      "content_type": "image/jpeg",
+      "size_kb": 13602.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 4,
+      "content_type": "image/jpeg",
+      "size_kb": 194.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 4,
+      "content_type": "image/png",
+      "size_kb": 34.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 24.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 5,
+      "content_type": "image/png",
+      "size_kb": 28.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 6,
+      "content_type": "image/png",
+      "size_kb": 24.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 6,
+      "content_type": "image/jpeg",
+      "size_kb": 11468.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 6,
+      "content_type": "image/jpeg",
+      "size_kb": 1831.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 26.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 24.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 26.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 26.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 26.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 7,
+      "content_type": "image/png",
+      "size_kb": 26.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 24.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 8,
+      "content_type": "image/jpeg",
+      "size_kb": 4432.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 4.2
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 10.9
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 8,
+      "content_type": "image/png",
+      "size_kb": 7.0
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 24.3
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 9,
+      "content_type": "image/jpeg",
+      "size_kb": 8611.5
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 37.8
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 33.6
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 46.4
+    },
+    {
+      "source_pptx": "河海大学主题PPT模板6",
+      "slide": 9,
+      "content_type": "image/png",
+      "size_kb": 20.0
+    }
+  ],
+  "shape_usage": {
+    "PICTURE (13)": 374,
+    "AUTO_SHAPE (1)": 221,
+    "TEXT_BOX (17)": 214,
+    "GROUP (6)": 61,
+    "LINE (9)": 56,
+    "FREEFORM (5)": 54
+  }
+}
